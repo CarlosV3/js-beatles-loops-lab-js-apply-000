@@ -15,5 +15,5 @@ function johnLennonFacts() {
   
   var excitingFacts = [];
   var f = 0;
-  
+  while (f)
 }
