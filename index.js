@@ -5,4 +5,5 @@ for (var m = 0; m<musicians.length; m++) {
     return allMusicians;
 }
   
-}// add solution here
+}
+// add solution here
