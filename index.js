@@ -18,6 +18,6 @@ function johnLennonFacts() {
     excitingFacts.push(`${facts[f]}!!!`);
     f++;
   }
-  return 
+  return facts;
 }
 
