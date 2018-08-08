@@ -22,7 +22,7 @@ function iloveTheBeatles(number) {
   var eArray = [];
   do {
     eArray.push("I love the Beatles!");
-  } while {
+
     
   }
 }
