@@ -15,7 +15,7 @@ function johnLennonFacts() {
   var excitingFacts = [];
   var f = 0;
   while (f<facts.length) {
-    facts.push(`${facts[f]}!!!`);
+    excitingFacts.push(`${facts[f]}!!!`);
     f++;
   }
   return facts;
