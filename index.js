@@ -7,3 +7,4 @@ for (var m = 0; m<musicians.length; m++) {
 }
 
 
+function johnLennonFacts
