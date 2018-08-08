@@ -23,6 +23,6 @@ function iloveTheBeatles(number) {
   do {
     eArray.push("I love the Beatles!");
     number++;
-    } while (number<)
+    } while (number<15)
     }
 }
